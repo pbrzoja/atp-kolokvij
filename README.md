@@ -12,3 +12,4 @@ let manifest*
 1. https://gist.github.com/discover
 2. https://hr.wikipedia.org/wiki/Wikipedija:Članak_tjedna
 3. https://www.pexels.com/photo/sunlight-shining-through-dark-clouds-6513750/
+4. https://github.com/pbrzoja/atp-kolokvij/blob/main/License.md
